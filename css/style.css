@@ -1,0 +1,65 @@
+* {
+    background-color: gray;
+}
+
+/*Main*/
+#main-title {
+    background-color: lightcoral;
+}
+
+/*Page 1*/
+#page_1_heading {
+    background-color: red;
+    font-size: 50px;
+    color: white;
+}
+
+/*Page 2*/
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddly-cool {
+    font-size: 24px;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/*Page 3 */
+
+.font{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif; 
+}
+
+.look1 {
+    background-color: black;
+    color: white;
+}
+
+.look2 {
+    background-color: yellow;
+    color: black;
+}
+
+/*Page4*/
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
